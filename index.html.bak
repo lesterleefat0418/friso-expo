@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Webgl.loader.js";
+      var loaderUrl = buildUrl + "/friso-expo-webgl.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Webgl.data",
-        frameworkUrl: buildUrl + "/Webgl.framework.js",
-        codeUrl: buildUrl + "/Webgl.wasm",
+        dataUrl: buildUrl + "/friso-expo-webgl.data",
+        frameworkUrl: buildUrl + "/friso-expo-webgl.framework.js",
+        codeUrl: buildUrl + "/friso-expo-webgl.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "MGV Innovation Ltd",
         productName: "friso-bbexpo",
